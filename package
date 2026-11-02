@@ -1,0 +1,5 @@
+py -m pip install opencv-python numpy matplotlib scikit-image scipy PyWavelets SpeechRecognition pyttsx3 sounddevice soundfile
+
+pip install PyWavelets scipy SpeechRecognition pyttsx3 sounddevice soundfile numpy matplotlib
+
+py -m pip install opencv-python numpy matplotlib scikit-image scipy
